@@ -9,13 +9,13 @@ export default function Home() {
         href="/login"
         className="bg-blue-700 hover:bg-blue-800 px-5 py-2.5 rounded-lg text-sm font-medium text-white"
       >
-        get started
+        login
       </Link>
       <Link
         className="underline text-blue-600 self-center mt-1"
         href="/register"
       >
-        dont have a account click here to sign up
+        sign up
       </Link>
     </div>
   );
